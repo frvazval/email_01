@@ -1,0 +1,1 @@
+Para ver si se ha instalado correctamente hay que poner composer
