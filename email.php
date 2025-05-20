@@ -6,6 +6,7 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 //Load Composer's autoloader (created by composer, not included with PHPMailer)
+// Hay que poner la ruta correcta a los ficheros
 require 'vendor/PHPMailer/PHPMailer/src/Exception.php';
 require 'vendor/PHPMailer/PHPMailer/src/PHPMailer.php';
 require 'vendor/PHPMailer/PHPMailer/src/SMTP.php';
