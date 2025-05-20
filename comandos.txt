@@ -1,1 +1,2 @@
 Para ver si se ha instalado correctamente hay que poner composer
+composer require phpmailer/phpmailer
